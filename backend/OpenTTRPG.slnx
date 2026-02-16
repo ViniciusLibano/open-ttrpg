@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Hosts/">
+    <Project Path="src/Hosts/OpenTTRPG.API/OpenTTRPG.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/OpenTTRPG.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/" />
+  <Folder Name="/src/Shared/Core/">
+    <Project Path="src/Shared/Core/OpenTTRPG.Core.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/Infrastructure/">
+    <Project Path="src/Shared/Infrastructure/OpenTTRPG.Infrastructure.csproj" />
+  </Folder>
+</Solution>

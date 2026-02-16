@@ -1,0 +1,6 @@
+@OpenTTRPG.API_HostAddress = http://localhost:5197
+
+GET {{OpenTTRPG.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
