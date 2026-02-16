@@ -4,8 +4,14 @@
     <Project Path="src/Hosts/OpenTTRPG.API/OpenTTRPG.API.csproj" />
   </Folder>
   <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Community/">
+    <Project Path="src/Modules/OpenTTRPG.Modules.Community/OpenTTRPG.Modules.Community.csproj" />
+  </Folder>
   <Folder Name="/src/Modules/Identity/">
     <Project Path="src/Modules/Identity/OpenTTRPG.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Session/">
+    <Project Path="src/Modules/Session/OpenTTRPG.Modules.Session.csproj" />
   </Folder>
   <Folder Name="/src/Shared/" />
   <Folder Name="/src/Shared/Core/">

@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Modules\Identity\OpenTTRPG.Modules.Identity.csproj" />
+    <ProjectReference Include="..\..\Shared\Core\OpenTTRPG.Core.csproj" />
+    <ProjectReference Include="..\..\Shared\Infrastructure\OpenTTRPG.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
